@@ -1,0 +1,10 @@
+.container-fluid {
+    background-image: url(Images/h_img.jpg);
+    background-image: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding-top: 25%;
+}
+h3 {
+    font-size: larger;
+}
