@@ -4,7 +4,14 @@
     background-repeat: no-repeat;
     height: 100vh;
     padding-top: 25%;
+    color: #fffefb;
 }
-h3 {
-    font-size: larger;
+.container-fluid-text {
+    text-transform: uppercase;
+    color: #fffefb;
+}
+.about-us {
+    background-color: #ffffff;
+    text-align: center;
+    
 }
