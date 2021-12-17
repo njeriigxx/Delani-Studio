@@ -13,5 +13,13 @@
 .about-us {
     background-color: #ffffff;
     text-align: center;
-    
+    line-height: 250%;
+    padding-top: 2.5%;
+    padding-bottom: 2%;
+}
+.services {
+    background-image: url(Images/s_image.jpg);
+    text-align: center;
+    line-height: 250%;
+    color: #fffefb;
 }
