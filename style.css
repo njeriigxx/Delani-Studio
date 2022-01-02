@@ -3,7 +3,7 @@
     background-image: cover;
     background-repeat: no-repeat;
     height: 100vh;
-    padding-top: 25%;
+    padding-top: 10%;
     color: #fffefb;
 }
 .container-fluid-text {
@@ -22,13 +22,31 @@
     text-align: center;
     line-height: 250%;
     color: #fffefb;
-    padding-top: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
+
 .portfolio {
     background-color: #fffefb;
+    margin-left: 160px;
+    margin-right: 100px;
+    gap: 4px;
+    
 }
+
+
+#images {
+    /* float: left; */
+    float: left;
+    width: 33.33%;
+    padding: 5px
+    
+}
+
 
 .col-md-12 {
     background-image: url(Images/c_image.jpg);
-    padding-bottom: 10%;
+    padding-bottom: 5%;
+    padding-top: 1%;
+    margin-bottom: 0px;
 }
